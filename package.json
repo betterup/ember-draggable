@@ -2,7 +2,7 @@
   "name": "ember-draggable",
   "version": "0.0.0",
   "description": "The default blueprint for ember-cli addons.",
-  "repository": "https://github.com/betterup/ember-draggable",
+  "repository": "betterup/ember-draggable",
   "directories": {
     "doc": "doc",
     "test": "tests"
