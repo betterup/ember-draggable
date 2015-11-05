@@ -28,7 +28,6 @@ export default Ember.Component.extend(Draggable, {
 
 // example droppable component
 export default Ember.Component.extend(Droppable, {
-  model: null,
   actions: {
     drop(modelId) {
       console.log('dropped model id: ', modelId);
