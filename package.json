@@ -12,7 +12,7 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "betterup/ember-draggable",
   "engines": {
     "node": ">= 0.10.0"
   },
