@@ -1,4 +1,6 @@
 # ember-draggable
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/betterup/ember-draggable.svg)](https://greenkeeper.io/)
 > HTML5 drag/drop support for ember components
 
 ## Features
